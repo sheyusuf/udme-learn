@@ -1,3 +1,2 @@
 this is my dev branch i am writing into
 i want to reset this commit
-this is for the revert checkout 
