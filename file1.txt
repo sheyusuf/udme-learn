@@ -4,3 +4,4 @@ tank you for this lecture
 i want to reset this commit
 my comparison class
 main
+this is stash class, change in main file
