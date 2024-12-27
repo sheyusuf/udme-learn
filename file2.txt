@@ -1,2 +1,3 @@
 this is my git revert first stage
 my comparison class checking
+this is stash review, change in file2

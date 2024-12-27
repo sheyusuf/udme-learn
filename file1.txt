@@ -4,4 +4,8 @@ tank you for this lecture
 i want to reset this commit
 my comparison class
 main
+<<<<<<< Updated upstream
 this is stash class, change in main file
+=======
+this is stash class, change in file1
+>>>>>>> Stashed changes
