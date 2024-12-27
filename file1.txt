@@ -1,2 +1,6 @@
 this is my dev branch i am writing into
+HEAD
 tank you for this lecture
+i want to reset this commit
+my comparison class
+main

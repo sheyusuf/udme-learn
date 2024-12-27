@@ -1,0 +1,2 @@
+this is my git revert first stage
+my comparison class checking
