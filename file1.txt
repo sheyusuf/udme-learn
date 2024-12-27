@@ -1,2 +1,3 @@
 this is my dev branch i am writing into
 i want to reset this commit
+my comparison class
